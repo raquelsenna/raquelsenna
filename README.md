@@ -1,5 +1,5 @@
 ### Olá!👋 Eu sou a Raquel Senna 
-#### Estudante de ADS apaixonada por programação e por aprender cada vez mais.
+#### Estudante de Ciência da Computação apaixonada por programação e por aprender cada vez mais.
 
 ## Linguagens que mais uso
 
