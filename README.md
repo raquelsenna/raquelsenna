@@ -22,6 +22,6 @@
 
 <div style="display: inline block"><br/>
   <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="center" alt="linkedin" src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/raquel-senna-b77a58271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJu49%2FmkeR3KXnChac66yxQ%3D%3D)"/>
 </div><br>
 
