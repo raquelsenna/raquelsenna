@@ -1,27 +1,26 @@
-### Olá!👋 Eu sou a Raquel Senna 
-#### Estudante de Ciência da Computação apaixonada por programação e por aprender cada vez mais.
+# Olá!👋 Me chamo Raquel Senna 
+## Estudante de Ciência da Computação apaixonada por programação e por aprender cada vez mais.
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?raquelsenna&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?raquelsenna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Linguagens que mais uso
 
 <div style="display: inline block"><br>
-  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div><br>
-
-## Atualmente aprendendo
-
-<div style="display: inline block"><br/>
-  <img align="center" alt="pyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img align="center" alt="sql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div><br>
 
 ## Contate-me 
 
 <div style="display: inline block"><br/>
-  <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<!--   <img align="center" alt="linkedin" src="[https://www.linkedin.com/in/raquel-senna-b77a58271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJu49%2FmkeR3KXnChac66yxQ%3D%3D)](https://www.linkedin.com/in/raquel-senna-b77a58271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJu49%2FmkeR3KXnChac66yxQ%3D%3D)"/> -->
+  <a alt="gmail" href="raquelsenna213@gmail.com"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a alt="linkedin" href="https://www.linkedin.com/in/raquel-senna" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
