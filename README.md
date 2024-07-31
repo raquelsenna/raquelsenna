@@ -1,11 +1,5 @@
-# Olá!👋 Me chamo Raquel Senna 
-## Estudante de Ciência da Computação apaixonada por programação e por aprender cada vez mais.
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?raquelsenna&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?raquelsenna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## Olá! Me chamo Raquel Senna 👋
+### Estudante de Ciência da Computação apaixonada por programação e por aprender cada vez mais.
 
 ## Linguagens que mais uso
 
@@ -20,7 +14,12 @@
 ## Contate-me 
 
 <div style="display: inline block"><br/>
-  <a alt="gmail" href="raquelsenna213@gmail.com"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a alt="linkedin" href="https://www.linkedin.com/in/raquel-senna" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="raquelsenna213@gmail.com"><img alt="gmail" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/raquel-senna"><img alt="linkedin" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div><br>
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/raquelsenna&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?https://github.com/raquelsenna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
