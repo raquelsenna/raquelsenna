@@ -1,11 +1,13 @@
 # Oláa, seja bem vindo(a) ✨
 
 
-#### Me chamo Raquel Senna, tenho 19 anos e moro em São Paulo - SP.
+### Me chamo Raquel Senna, tenho 19 anos e moro em São Paulo - SP.
 
 - 🖥️ Desenvolvedora de Software em formação
 - 📚 Estudante de Ciência da Computação
 - 😁 Venha me conhecer mais um pouco
+
+![Raquel Senna GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelsenna&show_icons=true&theme=radical) 
 
 ## Linguagens que mais uso
 
