@@ -5,6 +5,7 @@
 
 - 🖥️ Desenvolvedora de Software em formação
 - 📚 Estudante de Ciência da Computação
+- Em busca de oportunidades desafiadoras que me tragam profundos conhecimentos 
 
 ![Raquel Senna GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelsenna&show_icons=true&theme=radical) 
 
