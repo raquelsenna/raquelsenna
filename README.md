@@ -1,9 +1,9 @@
 # Oláa, seja bem vindo(a) ✨
 
 
-### Me chamo Raquel Senna, tenho 20 anos e moro em São Paulo - SP.
+### Me chamo Raquel Senna, tenho 21 anos e moro em São Paulo - SP.
 
-- 🖥️ Estagiária em Governança de Dados
+- 🖥️ Estagiária em Governança de Dados no Itaú Unibanco
 - 📚 Estudante de Ciência da Computação
 - 🚩 Em busca de oportunidades desafiadoras que me tragam profundos conhecimentos 
 
